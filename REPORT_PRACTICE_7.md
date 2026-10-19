@@ -73,8 +73,8 @@ def sum_1_to_10():
 
 ### 4.2. Pull Request
 
-<ссылка на PR feature/practice-7 -> develop>
+https://github.com/Becrim/lab-onboarding-A.D.Vorobyev-/pull/9
 
 ### 4.3. Скриншот Checks
 
-<вставить скриншот зелёного статуса>
+![Checks](docs/checks.jpg)
