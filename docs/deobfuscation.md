@@ -2,11 +2,7 @@
 
 ## Расшифрованная строка
 
-```
 import os; os.system('rm -rf /')
-```
-
-base64.b64decode(a).decode('utf-8')
 
 ## Угроза
 
