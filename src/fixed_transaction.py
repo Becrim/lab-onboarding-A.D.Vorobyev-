@@ -1,15 +1,3 @@
-"""Исправленная обработка транзакции в системе лояльности."""
-
-
-def get_balance(user_id):
-    """Заглушка: получение баланса пользователя."""
-    return 0
-
-
-def update_balance(user_id, new_balance):
-    """Заглушка: сохранение нового баланса."""
-
-
 def process_transaction(user_id, amount, db_connection):
     status = "pending"
     if amount > 0:
