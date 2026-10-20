@@ -77,4 +77,5 @@ https://github.com/Becrim/lab-onboarding-A.D.Vorobyev-/pull/9
 
 ### 4.3. Скриншот Checks
 
-![Checks](docs/checks.jpg)
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/9b680612-bb74-4919-873e-5137d5e1c505" />
+
