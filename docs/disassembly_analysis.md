@@ -18,7 +18,7 @@ def sum_1_to_10():
     while i <= 10:
         total += i
         i += 1
-    return total  # 55
+    return total  
 ```
 
 Функция считает сумму чисел от 1 до 10 включительно, результат — 55.
