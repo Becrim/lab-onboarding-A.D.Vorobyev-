@@ -1,0 +1,46 @@
+Диагностика компьютера
+==============================
+
+Операционная система
+Название: macOS
+Версия: 26.6.2
+------------------------------
+Процессор
+Apple M5
+------------------------------
+Оперативная память
+Всего памяти: 16 ГБ
+Свободно памяти: 4 ГБ
+------------------------------
+Диск
+Всего: 460 ГБ
+Свободно: 305 ГБ
+------------------------------
+Установленные программы
+Antigravity
+Claude
+Discord
+Docker
+GarageBand
+Gemini
+Happ
+Keynote
+Kimi
+Microsoft Word
+Numbers
+Obsidian
+Pages
+Postgres
+Python 3.13
+Roblox
+Safari
+Telegram
+Tunnelblick
+UTM
+Unzip - RAR ZIP 7Z Unarchiver
+Utilities
+VirtualBox
+VirtualBox.pkg
+Visual Studio Code
+iMovie
+pgAdmin 4
