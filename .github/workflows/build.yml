@@ -1,0 +1,13 @@
+name: Build LuckySevenConsole
+on:
+  push:
+    branches: [ LuckySevenConsole ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile
+        run: g++ -std=c++17 -O2 -o LuckySevenConsole LuckySevenConsole.cpp
+      - name: Run (одна игра, ответ n)
+        run: echo n | ./LuckySevenConsole
